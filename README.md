@@ -3,7 +3,7 @@
 By DannyFeng
 
 ## What is iMed?
-iMed is a system developed by Danny Feng for GP or healthcare worker to store patients and their medical records. It has a Java Spring boot backend with RESTful API for CRUD, and a frontend written in React.js. Dev version uses H2 in memory database, easy to pass to other developer to review the code and run the application.
+iMed is a personal learning project developed by Danny Feng for healthcare worker to store patients information and their medical records. It has a Java Spring boot backend with RESTful API for CRUD, and a frontend written in React.js. Dev version uses H2 in memory database, easy to pass to other developer to review the code and run the application. It can be easily switch to other database drivers, such as PostgreSQL in a few minutes.
 
 ## What feature it has?
 
